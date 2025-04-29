@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.TNTStudios.caosfix.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "TemptGoalMixin",
+    "GoalSelectorMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
